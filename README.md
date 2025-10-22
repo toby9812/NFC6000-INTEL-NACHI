@@ -1,5 +1,6 @@
 INTEL NFC6000多功能清洗機
 ![image](https://github.com/toby9812/NFC6000-NACHI/assets/161737346/8aa78e24-df77-4b15-9598-17bc95466e70)
+<img width="367" height="438" alt="image" src="https://github.com/user-attachments/assets/8a262086-152f-4ba4-b8a1-96df1950a491" />
 ![image](https://github.com/toby9812/NFC6000-NACHI/assets/161737346/d51fb3ef-f1ef-4cf9-b138-23757bf8a06c)
 ![image](https://github.com/toby9812/NFC6000-NACHI/assets/161737346/0478daf7-a2cb-47c1-95a3-707e0d538936)
 ![image](https://github.com/toby9812/NFC6000-NACHI/assets/161737346/2d5437ef-8ae9-46b5-a029-8f89024804b6)
